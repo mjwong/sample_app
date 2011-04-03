@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/spec/models/user_spec.rb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/app/models/user.rb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/lib/tasks/sample_data.rake</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/config/routes.rb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/app/views/shared/_stats.html.erb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/app/views/pages/home.html.erb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/app/views/users/_follow_form.html.erb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/app/views/users/_follow.html.erb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/app/views/users/_unfollow.html.erb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/app/views/users/show.html.erb</file>
+        <file>file:/C:/Users/Mike/rails_projects/sample_app/spec/models/relationship_spec.rb</file>
+    </open-files>
 </project-private>
